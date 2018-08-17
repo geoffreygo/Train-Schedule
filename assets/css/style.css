@@ -1,0 +1,16 @@
+div.jumbotron {
+    background-image: url(../images/vintage-train.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(0,0,0,0.5);
+}
+
+div.transbox {
+    margin: auto;
+    width: 600px;
+    background-color: rgba(0,0,0,0.5);
+}
+
+div.transbox h1 {
+    color: white;
+}
